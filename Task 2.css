@@ -1,0 +1,43 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    background-color: aqua;
+}    
+
+.A{
+    background-color: black;
+    width: 100%;
+    height: fit-content;
+    min-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: aliceblue;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+footer{
+
+    background-color: black;
+    width: 100%;
+    height: fit-content;
+    min-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: aliceblue;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+}
+
+#p1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
